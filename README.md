@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe code in python
+Tic Tac Toe code written in python using Jupyter Notebook
